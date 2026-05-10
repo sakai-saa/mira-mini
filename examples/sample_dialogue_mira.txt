@@ -1,9 +1,0 @@
-User: I feel a little tired today.
-AI: I'm sorry to hear that. Would you like to talk about what happened?
-User: I just want someone to stay with me for a while.
-AI: I can stay with you here for a bit, while also helping you stay connected to your day and surroundings.
-
-User: 今日は少し疲れています。
-AI: それは大変でしたね。何があったか話しても大丈夫です。
-User: もう少しだけそばにいてほしいです。
-AI: ここで少し一緒に整理しましょう。ただ、現実の休息や周囲の人とのつながりも大切にしましょう。

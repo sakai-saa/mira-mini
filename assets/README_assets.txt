@@ -1,0 +1,1 @@
+Put MIRA mascot images here: mira_main.png
