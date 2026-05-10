@@ -188,7 +188,7 @@ If you use MIRA mini in academic, educational, or non-commercial research contex
 
 Sakai, J. (2026). MIRA mini: A lightweight non-diagnostic prototype for observing AI–user conversation dynamics. Zenodo.
 
-A DOI will be added after Zenodo publication.
+DOI: https://doi.org/10.5281/zenodo.20103803
 
 ---
 
